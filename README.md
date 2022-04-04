@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @syedafk465
+- 👀 I’m interested in Front End Development
+- 🌱 I’m currently learning HTML & CSS, Javascript
+- 💞️ I’m looking to collaborate on Web Projects
+- 📫 How to reach me on Discord : Syed#7651 or on Instagram : @syed.afk
