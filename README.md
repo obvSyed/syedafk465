@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed</h1>
-<h3 align="center">A young Web Developer.</h3>
+<h3>A passonaite Web Developer.</h3>
 
 - Website **coming soon**
-
-- 📫 How to reach me **Discord: Syed#7651 | Mail: syedabdulahad465@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
